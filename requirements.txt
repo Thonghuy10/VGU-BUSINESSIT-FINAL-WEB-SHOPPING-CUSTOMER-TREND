@@ -5,3 +5,6 @@ openpyxl
 numpy
 plotly
 streamlit-lottie
+streamlit-extras
+
+
