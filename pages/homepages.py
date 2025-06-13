@@ -24,7 +24,7 @@ st.set_page_config(page_title="PYTHON 2 - BUSINESS IT 2", page_icon="🧡", layo
 # Title & intro
 st.title("PYTHON 2 - BUSINESS IT 2 :orange_heart:")
 st.write(
-    "We are a group of business students who are interested in Customer shopping We are a group of business students who are interested in Customer shopping trend. "
+    "We are a group of business students who are interested in Customer shopping. "
     "Therefore, We aim to explore how shopping habits differ among consumer groups based on age, gender, and location, as well as the relationship between previous purchase frequency and future shopping behavior. "
     "Additionally, we will examine how the popularity of different product categories varies across customer groups."
 
@@ -103,7 +103,7 @@ with col2:
     st.subheader("**Full name: Vu Thien Tuan**")
     st.write("Student ID: 103240493")
     st.write("Email: 103240493@student.vgu.edu.vn")
-    st.write("Major: Business Administration (BBA)")
+    st.write("Major: Business Administration (BFA)")
 
 st.write(" ")
 
@@ -116,7 +116,7 @@ with col2:
     st.subheader("**Full name: Pham Tuyet Mai**")
     st.write("Student ID: 103240500")
     st.write("Email: 103240500@student.vgu.edu.vn")
-    st.write("Major: Business Administration (BBA)")
+    st.write("Major: Business Administration (BFA)")
 
 # Contact form
 st.markdown("---")
